@@ -7,9 +7,6 @@ public class HoneyBee {
         return "I'm a Honeybee!";
 
     }
-
-
-
     public String fly() {
 
         return "I can fly!";
