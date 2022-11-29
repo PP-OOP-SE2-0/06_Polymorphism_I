@@ -8,6 +8,9 @@ Worker worker = new Worker();
 Queen queen = new Queen();
 Drone drone = new Drone();
 
+HoneyBee honeyBee = new HoneyBee();
+output(honeyBee.doYourJob());  
+
 
 
 output(worker.doYourJob());
